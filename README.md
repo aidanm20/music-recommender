@@ -1,10 +1,10 @@
-Music Recommendation System
+# Music Recommendation System
 
-Overview
+## Overview
 
 This is a simple music recommendation system that allows users to input their favorite artists and receive personalized recommendations based on the preferences of other users. The system maintains a database of user preferences and provides various features to analyze popularity metrics.
 
-Features
+## Features
 
 User Preference Management
 
