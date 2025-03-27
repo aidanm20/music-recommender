@@ -6,7 +6,7 @@ This is a simple music recommendation system that allows users to input their fa
 
 ## Features
 
-User Preference Management
+- User Preference Management
 
 Users can enter their favorite artists.
 
