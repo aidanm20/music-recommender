@@ -58,13 +58,14 @@ q - Save and quit the program
 
 ## Installation and Usage
 
-Clone the repository:
+1. Clone the repository:
 
+```
 git clone https://github.com/yourusername/music-recommendation.git
 cd music-recommendation
+```
+2. Run the program:
 
-Run the program:
+```python musicrec.py```
 
-python musicrec.py
-
-Follow the interactive prompts to enter preferences and receive recommendations.
+3. Follow the interactive prompts to enter preferences and receive recommendations.
