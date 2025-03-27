@@ -66,6 +66,6 @@ cd music-recommendation
 ```
 2. Run the program:
 
-```python musicrec.py```
+  ```python musicrec.py```
 
 3. Follow the interactive prompts to enter preferences and receive recommendations.
