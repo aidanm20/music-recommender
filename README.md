@@ -6,41 +6,41 @@ This is a simple music recommendation system that allows users to input their fa
 
 ## Features
 
-- User Preference Management
+### User Preference Management
 
-Users can enter their favorite artists.
+- Users can enter their favorite artists.
 
-New users are prompted to input their preferences upon first login.
+- New users are prompted to input their preferences upon first login.
 
-Preferences are stored in a database file (musicrecplus.txt).
+- Preferences are stored in a database file (musicrecplus.txt).
 
-Data Storage and Retrieval
+### Data Storage and Retrieval
 
-The system loads user preferences from musicrecplus.txt.
+- The system loads user preferences from musicrecplus.txt.
 
-Any updates to user preferences are saved to the file.
+- Any updates to user preferences are saved to the file.
 
-Recommendation System
+### Recommendation System
 
-Identifies the most similar user based on shared preferences.
+- Identifies the most similar user based on shared preferences.
 
-Suggests new artists that the current user has not yet listened to.
+- Suggests new artists that the current user has not yet listened to.
 
-Privacy Feature
+### Privacy Feature
 
-Users can mark their profile as private by appending a $ symbol to their name.
+- Users can mark their profile as private by appending a $ symbol to their name.
 
-Private users' preferences do not influence public recommendations.
+- Private users' preferences do not influence public recommendations.
 
-Popularity Metrics
+### Popularity Metrics
 
-Most Popular Artists: Identifies the most liked artists.
+- Most Popular Artists: Identifies the most liked artists.
 
-Popularity of the Top Artist: Shows how many users like the most popular artist.
+- Popularity of the Top Artist: Shows how many users like the most popular artist.
 
-Most Active User: Determines which user likes the most artists.
+- Most Active User: Determines which user likes the most artists.
 
-Interactive Menu
+## Interactive Menu
 
 Users can select from the following options:
 
@@ -56,7 +56,7 @@ m - Show the user who likes the most artists
 
 q - Save and quit the program
 
-Installation and Usage
+## Installation and Usage
 
 Clone the repository:
 
